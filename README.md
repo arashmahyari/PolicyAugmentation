@@ -10,7 +10,7 @@ The code was developed based on the [Stable baselines](https://github.com/hill-a
 
 
 * Please cite the paper:
-
+```
 @inproceedings{mahyari2021policy,
   title={Policy Augmentation: An Exploration Strategy for Faster Convergence of Deep Reinforcement Learning Algorithms},
   author={Mahyari, Arash Golibagh},
@@ -18,3 +18,4 @@ The code was developed based on the [Stable baselines](https://github.com/hill-a
   year={2021},
   organization={IEEE}
 }
+```
